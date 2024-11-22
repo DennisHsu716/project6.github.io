@@ -8,6 +8,6 @@ The implementation of the project is divided into three main components: page st
 ## Usage
 ![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/1.png)
 
-In this exchange rate, we have more than 51 country can choose. 
+In this exchange rate, we have support more than fifty country for use  
 
 ![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/3.png)
