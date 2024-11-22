@@ -11,3 +11,6 @@ The implementation of the project is divided into three main components: page st
 In this exchange rate, we have support more than fifty country for use  
 
 ![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/3.png)
+
+## About the future plans
+
