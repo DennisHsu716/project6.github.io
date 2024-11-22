@@ -6,3 +6,9 @@ The implementation of the project is divided into three main components: page st
 ## Environment
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 ## Usage
+![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/1.png)
+
+In this exchange rate, we have 14 opp pr
+
+
+![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/3.png)
