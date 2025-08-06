@@ -1,4 +1,4 @@
-# SPOT EXCHANGE RATE
+# Exchange Rate Calculator
 [Project Page](https://dennishsu716.github.io/project6.github.io/project5/project5.html)
 ## Summary
 Using HTML in conjunction with a real-time exchange rate API as the foundation, develop an intuitive and practical currency query and conversion application. By leveraging the ExchangeRate-API, implement real-time exchange rate updates and conversion functions for multiple currencies, enabling users to quickly access accurate exchange rate information.
