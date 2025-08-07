@@ -14,3 +14,32 @@ In this exchange rate, we have support more than fifty country for use
 
 ## About the future plans
 In the future, some real-time chart tickets can be added to add some real-time K-line charts to make it easier for users to see, or it can be combined with stocks and virtual currencies so that users can see all the information they want to see on a single web page.
+
+
+# 💱 Exchange Rate Calculator
+[Project Page](https://dennishsu716.github.io/project6.github.io/project5/project5.html)   
+
+A real-time, multi-currency exchange rate calculator built using HTML, CSS, and JavaScript. This project leverages the [ExchangeRate-API](https://www.exchangerate-api.com/) to deliver up-to-date exchange rates across 50+ countries, providing fast and accurate currency conversion for users in a clean and responsive web interface.
+
+---
+
+## 📌 Summary
+This web application enables users to:
+- Enter an amount
+- Select a base and target currency
+- Instantly convert using real-time exchange rate data from the ExchangeRate-API
+
+The application is structured into three core components:
+1. **Page Structure (HTML)** – Includes input fields, currency dropdowns, and a results display section.
+2. **Styling (CSS)** – Delivers a clean, responsive, and user-friendly interface.
+3. **Functionality (JavaScript)** – Handles API calls, processes JSON data, performs calculations, and dynamically updates the result.
+
+---
+
+## 🌐 Environment
+
+- **Frontend**: HTML5, CSS3, JavaScript ES6+
+- **API**: [ExchangeRate-API](https://www.exchangerate-api.com/)
+- **Icons**: Font Awesome 6.5.2 CDN  
+  ```html
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
