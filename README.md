@@ -19,7 +19,7 @@ In the future, some real-time chart tickets can be added to add some real-time K
 # 💱 Exchange Rate Calculator
 [Project Page](https://dennishsu716.github.io/project6.github.io/project5/project5.html)   
 
-A real-time, multi-currency exchange rate calculator built using HTML, CSS, and JavaScript. This project leverages the [ExchangeRate-API](https://www.exchangerate-api.com/) to deliver up-to-date exchange rates across 50+ countries, providing fast and accurate currency conversion for users in a clean and responsive web interface.
+A real-time, multi-currency exchange rate calculator built using HTML, CSS, and JavaScript. This project leverages the [ExchangeRate-API](https://open.exchangerate-api.com/v6/latest) to deliver up-to-date exchange rates across 50+ countries, providing fast and accurate currency conversion for users in a clean and responsive web interface.
 
 ---
 
@@ -39,7 +39,45 @@ The application is structured into three core components:
 ## 🌐 Environment
 
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
-- **API**: [ExchangeRate-API](https://www.exchangerate-api.com/)
+- **API**: [ExchangeRate-API](https://open.exchangerate-api.com/v6/latest)
 - **Icons**: Font Awesome 6.5.2 CDN  
   ```html
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">  
+
+---
+
+## 📸 Usage Screenshots 
+| Feature                               | Preview                        |
+| ------------------------------------- | ------------------------------ |
+| User selects currency & inputs amount | ![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/1.png) |
+| More than 50 supported currencies     | ![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/3.png)|  
+
+## 🧠 Features
+* Real-time exchange rates using public API
+* Supports over 50 currencies globally
+* Dynamic UI updates without reloading
+* Responsive layout for desktop and mobile
+* Clean error-handling for API failure or invalid inputs
+
+## 🛣️ Future Plans
+* 📊 Add real-time K-line (candlestick) charts to visualize currency trends
+* 🔁 Combine with stock prices and cryptocurrency for an all-in-one financial dashboard
+* 📱 Mobile-first UI redesign with tabbed views for currencies, charts, and watchlists
+* 💾 Add localStorage support for user preferences
+
+## 🧩 Folder Structure
+Exchange-Rate-Calculator/  
+├── index.html  
+├── style.css  
+├── script.js  
+├── images/  
+│   ├── currency_input.jpg  
+│   ├── currency_list.jpg  
+│   └── ...  
+└──  README.md   
+
+## 🚀 How to Run
+1. Clone the repo:
+``` git clone https://github.com/yourusername/exchange-rate-calculator.git ```
+2. Open ```index.html``` in your browser.
+3. Make sure you have internet access to fetch API data.
